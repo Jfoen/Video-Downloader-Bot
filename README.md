@@ -21,7 +21,7 @@ The bot uses an SQLite database to store basic usage statistics, such as:
 Only the user's Telegram ID is stored — no personal information is collected.
 
 Group Chat Support
-<img width="946" height="1709" alt="Telegram Video Downloader Bot screenshot" src="https://github.com/user-attachments/assets/bc7645b0-f3c2-401a-b655-2d00aae000d4" />
+<img src="https://github.com/user-attachments/assets/bc7645b0-f3c2-401a-b655-2d00aae000d4" width="400" />
 
 In group chats, the bot can show who initiated a video download, which makes it easier to track requests and manage shared usage.
 
