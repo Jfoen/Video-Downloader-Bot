@@ -17,6 +17,8 @@ The bot uses an SQLite database to store basic usage statistics, such as:
 
 Only the user's Telegram ID is stored — no personal information is collected.
 
-<img src="https://github.com/user-attachments/assets/bc7645b0-f3c2-401a-b655-2d00aae000d4" width="400" />
+<img width="400" alt="изображение" src="https://github.com/user-attachments/assets/bdfcb8b5-59c9-4b34-9fb4-945e542e55a5" />
 
 In group chats, the bot can show who initiated a video download, which makes it easier to track requests and manage shared usage.
+
+Bot example: @Youtube_video_summarybot
